@@ -45,6 +45,9 @@ solar.system.project/
 - Display planet labels or tooltips on hover
 - Enable zoom-in camera transitions on planet click
 
+## Live link of the project
+https://solar-system-project-askebtuz8-tanmai-kirans-projects.vercel.app/
+
 ## Author
 
 Tanmai Kiran  
